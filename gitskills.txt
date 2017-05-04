@@ -1,1 +1,2 @@
 git is a very useful skill.
+today we continue to studying git skills.
