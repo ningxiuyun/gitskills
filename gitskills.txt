@@ -1,4 +1,7 @@
 git is a very useful skill.
 today we continue to studying git skills.
 
+
 Creating a new branch is quick & simple.
+
+
